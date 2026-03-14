@@ -102,6 +102,8 @@ Instead of manually designing and building solutions, users simply provide a **r
 
 **SPARK handles the rest.**
 
+[Demo video](assets\DemoVideo)
+
 ---
 
 # 3. How It Works
@@ -358,14 +360,11 @@ This demo shows how **SPARK – AI SharePoint Solution Accelerator** transforms 
 
 In just a few minutes, SPARK demonstrates how organizations can move from **requirement documents to fully provisioned SharePoint solutions using AI-driven automation.**
 
-## Find solution zip and import the solution in Power Platform environment
-
-Find the solution zip here, [placeholder](/placeholder). 
-
-Follow the instructions to [import solution](/sampleinstruction). 
-
-Use the sample PRD document for testing the SPARK agent from this document, [samplePRD](/samplePRD.md). 
 
 ## Working solution snippet
 
-Find the detailed snippets of working solution here, [working solution snippet](/docs/Case%20study%20-%20Auto%20Triage%20AI%20-%20Snippet%20from%20working%20solution.md). 
+Find the working snippet of the Copilot Studio *SPARK - AI SharePoint Solution Accelerator* agent here,[Copilot Studio TechnicalS Solution snippet](assets\CopilotStudioSnippet) 
+
+Find the working snippet of the agent flow used in the agent to provision the SharePoint assests here,[Working Agent Flow snippet](assets\AgentFlowSnippet)
+
+Find the detailed snippets of working solution here, [SPARK agent in action snippet](assets\DemoSnippet). 

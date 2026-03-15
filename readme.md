@@ -314,10 +314,19 @@ The entire process from **requirements → deployment → validation** is automa
 # 11. Future Enhancements
 
 Potential extensions include:
+## Future Scope
 
-- Governance policy enforcement  
-- Reusable solution templates  
-- Architecture optimization recommendations  
+- SPARK currently automates SharePoint site, list, and column provisioning from requirement documents, but several enterprise architecture layers can further enhance the solution.
+
+- Future improvements include implementing a **role-based permission layer** to automatically configure SharePoint security groups and access controls. The AI architecture engine can also be extended to generate **more accurate SharePoint column types** such as Person, Lookup, Currency, and Managed Metadata based on semantic understanding of requirements.
+
+- Another enhancement is the ability to **populate provisioned lists with sample data**, either AI-generated for prototyping or extracted directly from the PRD when example records are provided.
+
+- The platform can also introduce a **business logic and validation layer**, enabling automatic creation of validation rules, calculated fields, and Power Automate workflows to enforce business processes.
+
+- Additionally, the **AI Validation Engine** can evolve into a governance layer capable of evaluating solution completeness, detecting architectural gaps, and providing optimization recommendations.
+
+- These enhancements would transform SPARK from a provisioning accelerator into a **fully AI-driven enterprise SharePoint solution architecture platform**.
 
 ## Version history
 

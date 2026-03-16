@@ -102,7 +102,7 @@ Instead of manually designing and building solutions, users simply provide a **r
 
 **SPARK handles the rest.**
 
-[Demo video](assets\DemoVideo)
+[Demo video](assets\DemoVideo\SharePointAISolutionAccelerator.mp4)
 
 ---
 

@@ -121,7 +121,7 @@ A **Copilot Studio agent** analyzes the requirement document and extracts:
 
 ## Step 2 – Architecture Design
 
-The AI agent converts the extracted information into a **SharePoint architecture design**, determining:
+The AI agent converts the extracted information into a **SharePoint architecture design** by generating the mermaid code with following diagrams, Solution Architecture, Data Model, Process Flow, SharePoint List Structure , determining:
 
 - Site structure  
 - Lists required  
@@ -325,6 +325,8 @@ Potential extensions include:
 - The platform can also introduce a **business logic and validation layer**, enabling automatic creation of validation rules, calculated fields, and Power Automate workflows to enforce business processes.
 
 - Additionally, the **AI Validation Engine** can evolve into a governance layer capable of evaluating solution completeness, detecting architectural gaps, and providing optimization recommendations.
+
+- **Integrating with mermaid code with draw io** to show the visual mermaid diagrams right in the agent chat interface.
 
 - These enhancements would transform SPARK from a provisioning accelerator into a **fully AI-driven enterprise SharePoint solution architecture platform**.
 
